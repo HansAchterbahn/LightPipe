@@ -1,0 +1,6 @@
+[submodule "LightPipe-Spacer"]
+	path = LightPipe-Spacer
+	url = https://github.com/HansAchterbahn/LightPipe-Spacer
+[submodule "LightPipe-EndCap"]
+	path = LightPipe-EndCap
+	url = https://github.com/HansAchterbahn/LightPipe-EndCap

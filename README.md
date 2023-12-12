@@ -16,8 +16,10 @@ In this main repository you will find links to all repositories related to the L
 
 
 
-## Subrepos
+## Submodules
 
-| Type                               | URL   |
-|------------------------------------|-------|
-| Input/Output PCB (made with KiCad) | https://github.com/HansAchterbahn/LightPipe-Kicad | 
+| Type                               | URL                                                |
+| ---------------------------------- | -------------------------------------------------- |
+| Input/Output PCB (made with KiCad) | https://github.com/HansAchterbahn/LightPipe-Kicad  |
+| Spacer (made with FreeCad)         | https://github.com/HansAchterbahn/LightPipe-Spacer |
+| EndCap (made with FreeCad)         | https://github.com/HansAchterbahn/LightPipe-EndCap |
