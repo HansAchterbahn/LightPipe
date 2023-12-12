@@ -4,3 +4,6 @@
 [submodule "LightPipe-EndCap"]
 	path = LightPipe-EndCap
 	url = https://github.com/HansAchterbahn/LightPipe-EndCap
+[submodule "LightPipe-Kicad"]
+	path = LightPipe-Kicad
+	url = https://github.com/HansAchterbahn/LightPipe-Kicad
