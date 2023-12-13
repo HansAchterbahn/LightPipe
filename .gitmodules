@@ -7,3 +7,9 @@
 [submodule "LightPipe-Kicad"]
 	path = LightPipe-Kicad
 	url = https://github.com/HansAchterbahn/LightPipe-Kicad
+[submodule "LightPipe-Driver"]
+	path = LightPipe-Driver
+	url = https://git.cccgoe.de/lightpipe/driver
+[submodule "LightPipe-Effects"]
+	path = LightPipe-Effects
+	url = https://git.cccgoe.de/lightpipe/effects
