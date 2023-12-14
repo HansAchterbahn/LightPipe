@@ -18,8 +18,17 @@ In this main repository you will find links to all repositories related to the L
 
 ## Submodules
 
+## Hardware
+
 | Type                               | URL                                                |
 | ---------------------------------- | -------------------------------------------------- |
 | Input/Output PCB (made with KiCad) | https://github.com/HansAchterbahn/LightPipe-Kicad  |
 | Spacer (made with FreeCad)         | https://github.com/HansAchterbahn/LightPipe-Spacer |
 | EndCap (made with FreeCad)         | https://github.com/HansAchterbahn/LightPipe-EndCap |
+
+### Software
+
+| Type                               | URL                                                |
+| ---------------------------------- | -------------------------------------------------- |
+| Driver                             | https://git.cccgoe.de/lightpipe/driver             |
+| Effects Library                    | https://git.cccgoe.de/lightpipe/effects            |
